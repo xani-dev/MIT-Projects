@@ -1,5 +1,6 @@
 
-![MIT xPro logo](https://github.com/xani-dev/xani-dev/blob/main/MIT/mitx-pro-logo.png)
+![MIT xPro logo](![mitx-pro-logo](https://user-images.githubusercontent.com/71361700/111552144-1ab6ee00-8758-11eb-91e3-996779473307.png)
+)
 
 # MIT xPro Projects
 
