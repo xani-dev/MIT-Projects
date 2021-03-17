@@ -1,6 +1,6 @@
 
-![MIT xPro logo](![mitx-pro-logo](https://user-images.githubusercontent.com/71361700/111552144-1ab6ee00-8758-11eb-91e3-996779473307.png)
-)
+![MIT xPro logo](https://user-images.githubusercontent.com/71361700/111552144-1ab6ee00-8758-11eb-91e3-996779473307.png)
+
 
 # MIT xPro Projects
 
@@ -21,8 +21,9 @@ try();
  1. Bouncing Balls Project
  2. Random Walk Project
  3. PacMan Project
- 4. Calculator Project
- 5. [Real-time Bus Tracker](https://github.com/xani-dev/xani-dev/tree/main/MIT/Real%20Time%20Bus%20Tracker)
+ 4. To-Do List
+ 5. Calculator Project
+ 6. [Real-time Bus Tracker](https://github.com/xani-dev/xani-dev/tree/main/MIT/Real%20Time%20Bus%20Tracker)
 
 ## Meta
 
