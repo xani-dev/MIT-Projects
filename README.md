@@ -20,7 +20,7 @@ try();
 
  1. Bouncing Balls Project
  2. Random Walk Project
- 3. PacMan Project
+ 3. [PacMan Project](https://github.com/xani-dev/MIT-Projects/tree/main/PacMan%20Factory)
  4. To-Do List
  5. Calculator Project
  6. [Real-time Bus Tracker](https://github.com/xani-dev/MIT-Projects/tree/main/Real%20Time%20Bus%20Tracker)
