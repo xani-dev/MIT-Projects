@@ -29,7 +29,6 @@ button {
     padding: 8px 16px;
     text-align: center;
     margin: 4px 2px;
-    transition-duration: 0.4s;
     cursor: pointer;
   }
 .mapboxgl-popup {

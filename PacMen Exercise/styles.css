@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+button {
+    font-size: 1.5em;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    font-size: 1.2em;
+    padding: 8px 16px;
+    text-align: center;
+    margin: 20px 10px;
+    cursor: pointer;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#Start {
+    background-color:#fbe200;
+}
+
+#Factory {
+    background-color: #1202f5;
+}
