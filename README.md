@@ -23,7 +23,7 @@ try();
  3. PacMan Project
  4. To-Do List
  5. Calculator Project
- 6. [Real-time Bus Tracker](https://github.com/xani-dev/xani-dev/tree/main/MIT/Real%20Time%20Bus%20Tracker)
+ 6. [Real-time Bus Tracker](https://github.com/xani-dev/xani-dev/tree/main/MIT-Projects/Real%20Time%20Bus%20Tracker)
 
 ## Meta
 
