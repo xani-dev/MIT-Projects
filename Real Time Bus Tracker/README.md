@@ -18,8 +18,8 @@ In order to run this project, you must update the Mapbox Access Token with your 
 
 ## Future improvements: 
 
-- [X]Will add a bus icon, instead the Default MapBox Marker
-- [ ]Add a popup per marker indicating bus direction and seat availability. 
+- [X] Will add a bus icon, instead the Default MapBox Marker
+- [ ] Add a popup per marker indicating bus direction and seat availability. 
 
 ## License information: 
 
