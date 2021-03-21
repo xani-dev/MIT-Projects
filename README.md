@@ -19,11 +19,12 @@ try();
 ## Contents
 
  1. Bouncing Balls Project
- 2. Random Walk Project
- 3. [PacMan Project](https://github.com/xani-dev/MIT-Projects/tree/main/PacMan%20Factory)
- 4. To-Do List
- 5. Calculator Project
- 6. [Real-time Bus Tracker](https://github.com/xani-dev/MIT-Projects/tree/main/Real%20Time%20Bus%20Tracker)
+ 2. [Eye Movement Project](https://github.com/xani-dev/MIT-Projects/tree/main/Eye%20Movement)
+ 3. Random Walk Project
+ 4. [PacMan Project](https://github.com/xani-dev/MIT-Projects/tree/main/PacMan%20Factory)
+ 5. To-Do List
+ 6. Calculator Project
+ 7. [Real-time Bus Tracker](https://github.com/xani-dev/MIT-Projects/tree/main/Real%20Time%20Bus%20Tracker)
 
 ## Meta
 
