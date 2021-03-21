@@ -19,7 +19,7 @@ try();
 ## Contents
 
  1. Bouncing Balls Project
- 2. Eye Movement Project
+ 2. [Eye Movement Project](https://github.com/xani-dev/MIT-Projects/tree/main/Eye%20Movement)
  3. Random Walk Project
  4. [PacMan Project](https://github.com/xani-dev/MIT-Projects/tree/main/PacMan%20Factory)
  5. To-Do List
