@@ -4,7 +4,7 @@ mapboxgl.accessToken = 'YOUR-API-CODE-HERE';
 // Load Light Styled Map
 var map = new mapboxgl.Map({
 	container: "map",
-	style: "mapbox://styles/mapbox/light-v10",
+	style: "mapbox://styles/mapbox/dark-v10",
 	center: [-71.051268,42.364120],
 	zoom: 12,
 });
