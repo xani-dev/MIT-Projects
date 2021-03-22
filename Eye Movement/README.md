@@ -7,7 +7,7 @@ This project was created using CSS, HTML and Javascript.
 This project is all about mouse movements. The Eyes of our pink friend will follow your mouse all over the place. It was created using Javascript, CSS & HTML
 
 
-![Eyes Movement Demo](https://user-images.githubusercontent.com/71361700/112066932-9c828f00-8b3d-11eb-9f5d-75acedb6d5d2.gif)
+![Eyes Movement Demo](https://user-images.githubusercontent.com/71361700/112067208-131f8c80-8b3e-11eb-9529-b21c163b8c81.gif)
 
 
 
