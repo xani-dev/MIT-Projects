@@ -17,8 +17,8 @@ h1 {
 
 #face {
   top: 10%;
-  width: 80vw;
-  height: 80vw;
+  width: 50vw;
+  height: 50vw;
   margin: 0 auto;
   position: relative;
   background: #fae0df;
@@ -28,8 +28,8 @@ h1 {
 }
 
 .eye {
-  width: 20vw;
-  height: 20vw;
+  width: 12vw;
+  height: 12vw;
   background: #fff;
   display: inline-block;
   margin: 10px;
@@ -46,8 +46,8 @@ h1 {
  }
 
 .ball {
-  width: 10vw;
-  height: 10vw;
+  width: 8vw;
+  height: 8vw;
   background: #9fd8df;
   position: absolute;
   top: 50%;
