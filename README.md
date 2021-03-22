@@ -32,7 +32,7 @@ For more on my journey to become a Fullstack Web Dev you can find me on Insta â€
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/xani-dev/xani-dev](https://github.com/xani-dev/)
+[Xani-Dev GitHub Main](https://github.com/xani-dev/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
