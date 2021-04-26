@@ -5,7 +5,7 @@ My very First ToDo List App
 This App was created using CSS, HTML, JSX, and React. 
 
 ## Description: 
-This Project is a ToDo list app, to understand CRUD, making use of React components and as an intro to useState
+This Project is a ToDo list app, to understand CRUD, making use of React components, and as an intro to useState
 
 You can add and delete as many tasks as you wish, the current list has a few pre-rendered tasks for Demo purposes. 
 
