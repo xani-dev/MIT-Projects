@@ -1,0 +1,101 @@
+body {
+	background-color: black;
+	font-family: "Quicksand", sans-serif;
+}
+
+#title {
+	color: cornsilk;
+	font-size: 3rem;
+	margin-top: 35px;
+	font-family: "Press Start 2P", cursive;
+}
+
+.movies{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+}
+
+.movie {
+	position: relative;
+	border-radius: 5px;
+	padding: 20px;
+	margin: 10px;
+	width: 60%;
+	flex-basis: width;
+	background-color: rgb(35, 32, 42);
+}
+
+.movie p {
+	color: #fff;
+	margin-top: 5px;
+	margin-bottom: 30px;
+	font-size: 1rem;
+}
+
+.movie a {
+	color: cornsilk;
+	margin-top: 5px;
+	margin-bottom: 30px;
+	font-size: 1.5rem;
+}
+
+.movie h2 {
+	color: cornsilk;
+	margin-top: 5px;
+	margin-bottom: 30px;
+	font-size: 1.5rem;
+}
+
+.scrollUp {
+	height: 160px;
+	overflow: hidden;
+	position: relative;
+}
+.scrollUp p {
+	font-family: "Press Start 2P";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	line-height: 30px;
+	text-align: center;
+	/* Starting position */
+	-moz-transform: translateY(100%);
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+	/* Apply animation to this element */
+	-moz-animation: scroll-up 25s linear infinite;
+	-webkit-animation: scroll-up 25s linear infinite;
+	animation: scroll-up 25s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-up {
+	0% {
+		-moz-transform: translateY(100%);
+	}
+	100% {
+		-moz-transform: translateY(-100%);
+	}
+}
+@-webkit-keyframes scroll-up {
+	0% {
+		-webkit-transform: translateY(100%);
+	}
+	100% {
+		-webkit-transform: translateY(-100%);
+	}
+}
+@keyframes scroll-up {
+	0% {
+		-moz-transform: translateY(100%); /* Browser bug fix */
+		-webkit-transform: translateY(100%); /* Browser bug fix */
+		transform: translateY(100%);
+	}
+	100% {
+		-moz-transform: translateY(-100%); /* Browser bug fix */
+		-webkit-transform: translateY(-100%); /* Browser bug fix */
+		transform: translateY(-100%);
+	}
+}
