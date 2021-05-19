@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>A Tic-Tac-Toe built with React</title>
+		<link rel="stylesheet" href="styles.css" />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Spartan"
+			rel="stylesheet"
+		/>
+		<!-- Don't use this in production: -->
+		<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+	</head>
+	<body>
+		<h1>Tic-Tac-Toe</h1>
+
+		<!-- We will put our React component inside this div. -->
+		<div id="root"></div>
+
+		<!-- Load React. -->
+		<script
+			src="https://unpkg.com/react/umd/react.development.js"
+			crossorigin
+		></script>
+		<script
+			src="https://unpkg.com/react-dom/umd/react-dom.development.js"
+			crossorigin
+		></script>
+
+		<!-- Load our React component. -->
+		<script src="TicTacToe.jsx" defer type="text/babel"></script>
+	</body>
+</html>
