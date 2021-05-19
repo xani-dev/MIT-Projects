@@ -25,6 +25,8 @@ try();
  5. To-Do List
  6. Calculator Project
  7. Bouncing Balls Project
+ 8. Expense Tracker App
+ 9. Tic-Tac-Toe
 
 ## Meta
 
