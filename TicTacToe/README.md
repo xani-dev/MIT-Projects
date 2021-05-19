@@ -7,7 +7,7 @@ This project was created using CSS, HTML, JSX and React.
 A minimalist view on a React Tic Tac Toe Game. 
 
 
-![Tic Tac Toe Demo](https://)
+![Tic Tac Toe Demo](https://user-images.githubusercontent.com/71361700/118739065-7f54fe80-b816-11eb-8760-48e89e244e53.gif)
 
 
 
