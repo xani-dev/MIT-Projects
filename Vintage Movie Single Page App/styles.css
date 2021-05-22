@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Montserrat&display=swap');
+
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    font-family: open-sans;
+    font-size: 20px;
+    background-color: maroon;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Limelight', cursive;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+        border: 15px dotted black;
+}
+
+a {
+    padding: 10px;
+}
+
+.all-products {
+    display: flex;
+    flex-direction: row; 
+    padding: 10px;
+    justify-content: center;
+}
+
+img {
+    padding: 15px;
+    height: 350px;
+    -webkit-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+  pointer-events: none;
+}
+.movie_card{
+  padding: 0 !important;
+  width: 35rem;
+  margin:14px; 
+  border-radius: 10px;
+  box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 15px 0 rgba(0, 0, 0, 0.19);
+}
+.movie_card img{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 20rem;
+}
+.movie_info{
+  color: #5e5c5c;
+}
+
+.movie_info i{
+  font-size: 20px;
+}
+.card-title{
+  width: 80%;
+  height: 4rem;
+}
+.play_button{
+  background-color: gray;
+     position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  right: 20px;
+  bottom: 111px;
+  font-size: 27px;
+  padding-left: 21px;
+  padding-top: 16px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
