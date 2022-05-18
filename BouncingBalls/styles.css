@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    height: 100%;
+    position: fixed;
+    width: 100%;
+}
+
+/* #ball1 {
+  z-index:0;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:100px;
+  border-radius:50%;
+  background:deeppink;
+} */

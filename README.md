@@ -21,13 +21,14 @@ try();
  1. [Real-time Bus Tracker](https://github.com/xani-dev/MIT-Projects/tree/main/Real-Time-Bus-Tracker)
  2. [Eye Movement Project](https://github.com/xani-dev/MIT-Projects/tree/main/Eye-Movement)
  3. [PacMan Project](https://github.com/xani-dev/MIT-Projects/tree/main/PacMan-Factory)
- 4. Random Walk Project
- 5. To-Do List
- 6. Calculator Project
- 7. Bouncing Balls Project
- 8. Expense Tracker App
- 9. Tic-Tac-Toe
-
+ 4. [ATM Simulator](https://github.com/xani-dev/MIT-Projects/tree/main/ATM)
+ 5. [To-Do List](https://github.com/xani-dev/MIT-Projects/tree/main/ToDo-List)
+ 6. [Shopping Cart Simulator](https://github.com/xani-dev/MIT-Projects/tree/main/ShoppingCart)
+ 7. [Bouncing Balls Project](https://github.com/xani-dev/MIT-Projects/tree/main/BouncingBalls)
+ 8. [Tic-Tac-Toe](https://github.com/xani-dev/MIT-Projects/tree/main/TicTacToe)
+ 9. [Hannoi Tower](https://github.com/xani-dev/MIT-Projects/tree/main/HannoiTower)
+ 10. [Star Wars Movies Info Fetch](https://github.com/xani-dev/MIT-Projects/tree/main/StarWars)
+11. [Vintage Movie Theater - React](https://github.com/xani-dev/MIT-Projects/tree/main/VintageMovies-SPA)
 ## Meta
 
 For more on my journey to become a Fullstack Web Dev you can find me on Insta – [@thePink.dev](https://instagram.com/thepink.dev) 📸
